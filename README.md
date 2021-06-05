@@ -3,7 +3,7 @@
 This was a project in which I started to learn the basics of game development using the framework PyGame.
 The code here is based off a beginners PyGame tutorial shared by FreeCodeCamp, which can be found [here](https://youtu.be/FfWpgLFMI7w).
 
-Since this was the first time I was using PyGame, I added many comments to my code (to help me remember the logic and syntax), as a result of which it does not look that clean. Subsequent projects I work on using PyGame will definitely look cleaner and have more efficiently designed code.
+Since this was the first time I was using PyGame, I added many comments to my code (to help me remember the logic and syntax), as a result of which it does not look very clean in some parts. Subsequent projects I work on using PyGame will definitely look cleaner and have more efficiently designed code.
 
 Image attributions for this project:
 * <div>Player Spaceship: Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
